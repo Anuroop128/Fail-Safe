@@ -1,0 +1,17 @@
+{
+    "student_id": 4,
+    "interventions": [
+        {
+            "feature": "support_index",
+            "action": "SUPPORT: Low family/school support. ACTION -> Connect student with on-campus mentorship program."
+        },
+        {
+            "feature": "absences",
+            "action": "ATTENDANCE: High absence rate. ACTION -> Trigger automated academic advisor check-in and draft attendance contract."
+        },
+        {
+            "feature": "risk_behavior",
+            "action": "LIFESTYLE: High risk behavior index (Alcohol/Social). ACTION -> Schedule confidential wellness counseling."
+        }
+    ]
+}
